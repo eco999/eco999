@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Sort Manager](https://github.com/eco999/SortManager)
 
-- 🌱 I’m currently learning **Java alongside Maven, Sorting Algorithms and fundamentals**
+- 🌱 I’m currently learning **Java alongside Maven**
 
 - 👨‍💻 All of my projects are available at [https://github.com/eco999?tab=repositories](https://github.com/eco999?tab=repositories)
 
