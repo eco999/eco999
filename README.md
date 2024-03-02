@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Justin</h1>
 <h3 align="center">UK-based Java developer</h3>
 
-- 🔭 Currently involved in a project involving Spring, SQL, Jenkins, Kubernetes
+- 🔭 Currently involved in a project involving **Spring, SQL, Jenkins, Kubernetes**
 
 - 🌱 Interested in learning **AWS**
 
